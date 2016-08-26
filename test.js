@@ -21,7 +21,7 @@ wink.login(function() {
         //wink.findDevices(devices, 'lock_id');
 
     });
-//    winkapi.setLock('64666', false, function(desired_state, current_state) {
+//    winkapi.setLock('64566', false, function(desired_state, current_state) {
 //        console.log("current_state = " + current_state + ", desired_state = " + desired_state);
 //    });
 });
