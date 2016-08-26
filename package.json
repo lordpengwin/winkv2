@@ -1,0 +1,14 @@
+{
+  "name": "winkv2",
+  "version": "1.0.0",
+  "description": "Node module for the Wink V2 API",
+  "main": "winkv2api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Martin",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "~1.5.1"
+  }
+}
